@@ -1,29 +1,30 @@
 ## FRT_Final_Project
 Final Future Ready Talent Project done by Tanvi Kayat
+
 ## About
 I've created a Study-Course web app that helps the users to access the best learning resources and prepares them for today's jobs.
+
 ## My website link 
 https://agreeable-moss-08082be10.1.azurestaticapps.net/
+
 ## GitHub Link
 https://tkayat.github.io/FRT-Project/
-## Home page
-![image](https://user-images.githubusercontent.com/105040357/171338004-6ed2d3b6-889b-47a9-bc8e-166a6204d6c5.png)
-![image](https://user-images.githubusercontent.com/105040357/171338037-6539ff69-73d3-4066-aa4d-67f0a23f3f7a.png)
-![image](https://user-images.githubusercontent.com/105040357/171337156-eb0ac2e6-3950-462f-84ed-8f9e424fbd1b.png)
-![image](https://user-images.githubusercontent.com/105040357/171337187-fecbe414-ae53-430c-bfef-118630a82181.png)
-![image](https://user-images.githubusercontent.com/105040357/171337255-58179001-f857-4219-861d-5ea28c27f727.png)
 
+## Home page
+![image](https://user-images.githubusercontent.com/105040357/171338342-3f27fa9a-5e9c-4769-93ba-70976bad4cd2.png)
+![image](https://user-images.githubusercontent.com/105040357/171338361-57416366-60df-4c58-9047-bcc10fa1c0f4.png)
+![image](https://user-images.githubusercontent.com/105040357/171338382-ebba3cd8-5cf1-4151-9380-e5888a270d3c.png)
+![image](https://user-images.githubusercontent.com/105040357/171338423-19abca5e-e582-4f82-9d94-9b5b8af481cb.png)
 
 ## About
-![image](https://user-images.githubusercontent.com/105040357/171337324-e6ac7927-4b0a-46ab-b900-f07388040009.png)
-
+![image](https://user-images.githubusercontent.com/105040357/171338466-38d0e31a-a589-46de-92ef-4f509e87cbd2.png)
+![image](https://user-images.githubusercontent.com/105040357/171338602-b9c83bbe-f1e0-47df-aaf6-807a4667a499.png)
 
 ## courses
-![image](https://user-images.githubusercontent.com/105040357/171337592-c486552b-23be-4a22-aa48-94a21d6f5261.png)
-![image](https://user-images.githubusercontent.com/105040357/171337630-4d35f5b5-f940-42f5-8bb3-7b2784a401c2.png)
-
+![image](https://user-images.githubusercontent.com/105040357/171338543-05677e77-8e3f-4946-bc23-f4d67a6ff8c5.png)
 
 ## Contact Us
-![image](https://user-images.githubusercontent.com/105040357/171337702-7200d107-3656-43b9-9cf8-f6d0aaa4783a.png)
+![image](https://user-images.githubusercontent.com/105040357/171338628-dad0f5b9-8cd9-4f96-a42c-3960ca403aca.png)
+
 
 
