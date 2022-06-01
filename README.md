@@ -1,7 +1,7 @@
 ## FRT_Final_Project
 Final Future Ready Talent Project done by Tanvi Kayat
 ## About
-I've created a Study-Course web app that helps the user to access best learning resources and prepares them for today's jobs.
+I've created a Study-Course web app that helps the users to access the best learning resources and prepares them for today's jobs.
 ## My website link 
 https://agreeable-moss-08082be10.1.azurestaticapps.net/
 ## GitHub Link
