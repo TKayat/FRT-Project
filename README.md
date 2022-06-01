@@ -7,18 +7,22 @@ https://agreeable-moss-08082be10.1.azurestaticapps.net/
 ## GitHub Link
 https://tkayat.github.io/FRT-Project/
 ## Home page
-![1](https://user-images.githubusercontent.com/81588122/169692627-795328af-6b43-4b12-8b99-d455fd5d7e95.png)
-![2](https://user-images.githubusercontent.com/81588122/169692631-0b9a8653-ff52-4a83-9c63-86a6eff53b2c.png)
-![3](https://user-images.githubusercontent.com/81588122/169692633-9aba9d43-2c09-45df-831d-15e508a6a971.png)
-![4](https://user-images.githubusercontent.com/81588122/169692634-f5a4e03a-9d66-4731-83a3-50c99e2dfa7d.png)
+![image](https://user-images.githubusercontent.com/105040357/171337107-63b75022-af87-4a3f-9a0d-3043a495daf8.png)
+![image](https://user-images.githubusercontent.com/105040357/171337156-eb0ac2e6-3950-462f-84ed-8f9e424fbd1b.png)
+![image](https://user-images.githubusercontent.com/105040357/171337187-fecbe414-ae53-430c-bfef-118630a82181.png)
+![image](https://user-images.githubusercontent.com/105040357/171337255-58179001-f857-4219-861d-5ea28c27f727.png)
+
 
 ## About
-![5](https://user-images.githubusercontent.com/81588122/169692777-2f51f2cc-b3f2-44ef-849b-dafac5e52796.png)
+![image](https://user-images.githubusercontent.com/105040357/171337324-e6ac7927-4b0a-46ab-b900-f07388040009.png)
 
-## classes
-![6](https://user-images.githubusercontent.com/81588122/169692799-60308f6e-03ce-4d57-96e4-3bb6bf138d42.png)
-![7](https://user-images.githubusercontent.com/81588122/169692802-a12cdaa6-66b5-4182-ad22-ab9aee9bdecb.png)
+
+## courses
+![image](https://user-images.githubusercontent.com/105040357/171337592-c486552b-23be-4a22-aa48-94a21d6f5261.png)
+![image](https://user-images.githubusercontent.com/105040357/171337630-4d35f5b5-f940-42f5-8bb3-7b2784a401c2.png)
+
 
 ## Contact Us
+![image](https://user-images.githubusercontent.com/105040357/171337702-7200d107-3656-43b9-9cf8-f6d0aaa4783a.png)
 
-![lst](https://user-images.githubusercontent.com/81588122/169692809-525cab38-ddb4-4120-aa0c-f19d41ccca31.png)
+
