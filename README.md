@@ -20,7 +20,7 @@ https://tkayat.github.io/FRT-Project/
 ![image](https://user-images.githubusercontent.com/105040357/171339499-91c23fa0-9dbd-4fb7-a833-5248d1a76d2b.png)
 ![image](https://user-images.githubusercontent.com/105040357/171339591-706e0f12-325f-474f-8f35-3c9ffb96b105.png)
 
-## courses
+## Courses
 ![image](https://user-images.githubusercontent.com/105040357/171339642-beac1721-0e7f-4104-9240-03b89064bb4d.png)
 
 ## Contact Us
